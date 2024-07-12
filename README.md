@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science 👩🏻‍🔬 & Wordpress**
 
-- 👯 I’m looking to collaborate on **Open-source projects and any opportunity to create impactful software.💡**
+- 👯 I’m looking to collaborate on **New Ideas.💡**
 
 - 🔭 Currently working on **Building innovative web applications and exploring the latest in JavaScript frameworks.**
 
@@ -21,13 +21,14 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jcKwLqO_-Dkk5Rio3lWgHir3tQB_4Klb/view?usp=drivesdk](https://drive.google.com/file/d/1jcKwLqO_-Dkk5Rio3lWgHir3tQB_4Klb/view?usp=drivesdk)
 
-- ⚡ Fun fact **like watching cartoons 🙊**
+- ⚡ Fun fact **I like watching cartoons 🙊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dnyaneshwari patale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dnyaneshwari patale" height="30" width="40" /></a>
 <a href="https://instagram.com/priyal_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyal_4" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dnyanupatale40" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dnyanupatale40" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/DnyaneshwariPatale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dnyaneshwari patale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
